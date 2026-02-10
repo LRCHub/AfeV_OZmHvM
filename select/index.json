@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "비올레타 Violeta",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-10T20:42:21.134537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Violetta (비올레타)",
+      "artist": "아이즈원 (IZ*ONE)",
+      "has_synced": true,
+      "path": "select/01_Violetta_(비올레타)_아이즈원_(IZ_ONE).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "비올레타",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_비올레타_IZ_ONE.txt"
+    }
+  ]
+}
